@@ -70,6 +70,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
+I learned how to make simple music/sound with a Micro:bit,
 In this experiment, something new to me was or something I learned was (insert something here).
 
 This experiment could be the basis of a real world application such as (insert something here).

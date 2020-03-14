@@ -1,17 +1,10 @@
 # Inventor Kit Experiments
 
-*Markdown reference: https://guides.github.com/features/mastering-markdown/*
-
-## Instructions ##
-
-*For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
-
 ### Experiment name ###
 
-(Replace this with the experiment name)
+The "Hello World." Program
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
 ![Image](missingimage.png)
 
@@ -25,10 +18,9 @@ Since this is a "Hello World." experiment, a real world application would be bas
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Using A Light Sensor & Analog Inputs
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](missingimage.png)
 
@@ -42,10 +34,9 @@ This experiment can be applied in a real world solar panel project. The photores
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Dimming An LED Using A Potentiometer 
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](missingimage.png)
 
@@ -59,10 +50,9 @@ This experiment can be crucial in the world's efforts of reducing the ussage of 
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Setting The Tone With A Piezo Buzzer
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](missingimage.png)
 
@@ -76,10 +66,9 @@ Likewise to what has been stated, I believe that making sound is present in all 
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+A Pedestriant Crossing
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](missingimage.png)
 
@@ -87,8 +76,6 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, I combined all of my learnings in the previous 4 experiments to make a pedestrian's crossing light. I was able to include variables like: controlling LED lights to flash on cue, made an awareness buzzer sound for the pedestrians to cross, 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, I combined all of my learnings in the previous 4 experiments to make a pedestrian's crossing light. I was able to include variables like: controlling LED lights to flash on cue, made an awareness buzzer sound for the pedestrians to cross, synchronising the timing elements to the traffic lights, the buzzer sound, and the pedestrian's lights. 
 
-This experiment could be the basis of a real world application such as (insert something here).
-
+This experiment exists in every corner of the planet, the traffic and pedestriant's lights are a common commodity in everyday life.

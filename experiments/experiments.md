@@ -6,7 +6,7 @@ The "Hello World." Program
 
 #### Photo of completed project ####
 
-![Image](missingimage.png)
+![Image](IMG_0269.jpeg)
 
 Image showing the finished code and layout of the breadboard. 
 

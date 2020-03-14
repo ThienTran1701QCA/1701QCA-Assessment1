@@ -8,7 +8,7 @@ The "Hello World." Program
 
 ![Image](missingimage.png)
 
-(Insert a caption here)
+Image showing the finished code and layout of the breadboard. 
 
 #### Reflection ####
 
@@ -24,7 +24,7 @@ Using A Light Sensor & Analog Inputs
 
 ![Image](missingimage.png)
 
-(Insert a caption here)
+Image showing the finished code and layout of the breadboard 
 
 #### Reflection ####
 
@@ -40,7 +40,7 @@ Dimming An LED Using A Potentiometer
 
 ![Image](missingimage.png)
 
-(Insert a caption here)
+Image showing the finished code and layout of the breaboard 
 
 #### Reflection ####
 
@@ -56,7 +56,7 @@ Setting The Tone With A Piezo Buzzer
 
 ![Image](missingimage.png)
 
-(Insert a caption here)
+Image showing the finished code and layout of the breadboard
 
 #### Reflection ####
 
@@ -72,7 +72,7 @@ A Pedestriant Crossing
 
 ![Image](missingimage.png)
 
-(Insert a caption here)
+Image showing the finished code and layout of the breaboard 
 
 #### Reflection ####
 

@@ -67,13 +67,11 @@ The mechanics of the reaction game do share several elements, from the cardbox t
 
 ![Image](IMG_0275.jpeg)
 
-The image shows my initial ideas for the project, there were four and I chose the fourth one. In my opinion, the fourth one is the closest replicated-yet-original idea for the project. In addition, the image also display the basic structural layout and elements that are crucial for the project, the interaction flow diagram, and the list of essential itineraries for the project.
+The image show my initial ideas for the project, there were four and I chose the fourth one. In my opinion, the fourth one is the closest replicated-yet-original idea for the project. In addition, the image also display the basic structural layout and elements that are crucial for the project, the interaction flow diagram, and the list of essential itineraries for the project.
 
 *Include screenshots of the code you have used.*
 
 ## Project outcome ##
-
-*Complete the following information.*
 
 ### Project title ###
 

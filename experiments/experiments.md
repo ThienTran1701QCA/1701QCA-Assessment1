@@ -22,7 +22,7 @@ Using A Light Sensor & Analog Inputs
 
 #### Photo of completed project ####
 
-![Image](missingimage.png)
+![Image](IMG_0270.jpeg)
 
 Image showing the finished code and layout of the breadboard 
 
@@ -38,7 +38,7 @@ Dimming An LED Using A Potentiometer
 
 #### Photo of completed project ####
 
-![Image](missingimage.png)
+![Image](IMG_0271.jpeg)
 
 Image showing the finished code and layout of the breaboard 
 
@@ -54,7 +54,7 @@ Setting The Tone With A Piezo Buzzer
 
 #### Photo of completed project ####
 
-![Image](missingimage.png)
+![Image](IMG_0272.jpeg)
 
 Image showing the finished code and layout of the breadboard
 
@@ -70,7 +70,7 @@ A Pedestriant Crossing
 
 #### Photo of completed project ####
 
-![Image](missingimage.png)
+![Image](IMG_0273.jpeg)
 
 Image showing the finished code and layout of the breaboard 
 

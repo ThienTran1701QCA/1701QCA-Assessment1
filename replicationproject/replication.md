@@ -6,13 +6,22 @@ Timing Gates
 ## Related projects ##
 
 ### Related project 1 ###
-(Insert name of project)
+Step Counter
 
-(Insert URL to project)
+https://microbit.org/projects/make-it-code-it/step-counter/
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+Similarly to my project, the Step Counter project allows the person to keep track of a variable - amount of steps for the Step Counter and amount of time for calculating velocity for my project. 
+
+### Related project 2 ###
+Reaction Game
+
+https://microbit.org/projects/make-it-code-it/reaction-game/
+
+![Image](missingimage.png)
+
+The mechanics of the reaction game do share several elements, from the cardbox to the aluminum foil. By observing the Reaction Game project, I am able to understand how elements interact together. 
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*

@@ -70,10 +70,9 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-I learned how to make simple music/sound with a Micro:bit,
-In this experiment, something new to me was or something I learned was (insert something here).
+I learned how to make simple music/sound with the Micro:bit. I realised that being able to making a simple sound could assist me in future projects, because interacting with sounds is an essential elemet in all projects. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+Likewise to what has been stated, I believe that making sound is present in all real world applications. However, adjusting sounds must be considered when creating a real world application, i.e.: a microwave beeping sound is different than a car's horn. 
 
 ### Experiment name ###
 
@@ -88,6 +87,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
+In this experiment, I combined all of my learnings in the previous 4 experiments to make a pedestrian's crossing light. I was able to include variables like: controlling LED lights to flash on cue, made an awareness buzzer sound for the pedestrians to cross, 
 In this experiment, something new to me was or something I learned was (insert something here).
 
 This experiment could be the basis of a real world application such as (insert something here).

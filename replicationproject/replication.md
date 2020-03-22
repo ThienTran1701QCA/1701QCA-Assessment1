@@ -85,9 +85,10 @@ Avoid the Obstacles Timed Track
 
 The goal of this project is to calculate the most optimal velocity of an all-terrian vehicle to cross a series of obstacles using the distance of the course over time it took to cross. A typical use case would be for an atv vehicle's manufacturer to test their vehicles on challenging terrains, similar to my obstacle course.
 
-### Showcase image ###
+### Showcase video ###
 
 <video src="IMG_0284.mov" width="320" height="200" controls preload></video>
+For unknown reasons, Github would not load the video. Therefore, an alternative to view the project's showcase video, you can proceed to downloading the video by pressing the three vertical dotted button at the far-right. 
 
 ### Additional view ###
 

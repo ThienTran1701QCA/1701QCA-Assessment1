@@ -65,7 +65,7 @@ The layout of this game is related to my project, in the sense that it is fundam
 
 ## Interaction flowchart ##
 
-
+![Image](IMG_0285.jpeg)
 ## Process documentation
 
 ![Image](IMG_0275.jpeg)
@@ -86,8 +86,6 @@ Avoid the Obstacles Timed Track
 The goal of this project is to calculate the most optimal velocity of an all-terrian vehicle to cross a series of obstacles using the distance of the course over time it took to cross. A typical use case would be for an atv vehicle's manufacturer to test their vehicles on challenging terrains, similar to my obstacle course.
 
 ### Showcase image ###
-
-![Image](missingimage.png)
 
 ### Additional view ###
 

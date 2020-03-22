@@ -87,6 +87,8 @@ The goal of this project is to calculate the most optimal velocity of an all-ter
 
 ### Showcase image ###
 
+<video src="IMG_0284.mov" width="320" height="200" controls preload></video>
+
 ### Additional view ###
 
 ![Image](missingimage.png)

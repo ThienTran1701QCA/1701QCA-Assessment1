@@ -32,6 +32,15 @@ https://www.kitronik.co.uk/blog/microbit-lap-counter-scalextric/
 
 The layout of this game is related to my project, in the sense that it is fundamentally a track. Both projects require an object - similar to a car and is being timed as they are completing the course. However, the most notable difference between the two projects is that game is calculating the amount of fixed laps, whereas my project calculates the velocity of the car after completing the course. 
 
+### Related project 4 ###
+The micro:bit driver // speed
+
+https://thecodecreator.wordpress.com/2017/06/21/the-microbit-driver-speed/
+
+![Image](missingimage.png)
+
+The idea behind this project is as close as my project in terms of the logic and layout. Both projects calculate the speed using a relatively similar forumla. However, this project's final input is in km/h whereas mines is in cm/seconds, and the layout of the project is meant for racing cars whereas mines is more suitable for an atv manufacturer to test their vehicles on unconventional terrains. 
+
 ## Reading reflections ##
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 

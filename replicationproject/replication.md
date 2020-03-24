@@ -60,6 +60,8 @@ As I'm working on my project, I've made several refinements since my original co
 
 ## Interaction flowchart ##
 
+![Image](IMG_0292.jpeg)
+
 ## Process documentation
 
 ![Image](IMG_0275.jpeg)

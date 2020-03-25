@@ -50,6 +50,15 @@ https://makecode.microbit.org/projects/rc-car/make
 
 This project can be the substitue for my project's object in a hypothetical scenario, where the scale and the materials of my project is adapted to reality. Here, the controlled RC Car will be scaled simultaneously with the track, allowing the RC Car to maneuver across the course. 
 
+### Related project 6 ###
+Obstacle Avoidance with Micro:bit Robit Smart Car
+
+https://www.littlebird.com.au/a/how-to/103/obstacle-avoidance-with-micro-bit-robit-smart-car
+
+![Image](missingimage.png)
+
+This project shares the same logic as my project, however, my project's object (most likely to be a car) maneuvers through a series of obstacles instead of avoding them. 
+
 ## Reading reflections ##
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
@@ -107,12 +116,8 @@ The goal of this project is to calculate the most optimal velocity of an all-ter
 
 Assembling the overall track was straightforward, where it became the basic component of my project, thus making it the most successful aspect of the project. However, in terms of the more difficult sides, it would have to be the wiring. I used the crocodile clips as the main source to formulate the circut. Crocodile clips are difficult to connect and can be loosely if their anchor points does not match with what you are trying to clip, thus making the connection somewhat troublesome at first, but, I eventually attached the clips using a Swiss army knife. 
 
-In regards to the possible room for improvements, I would need to find an alternative method to cover the wires and the external battery, as they are still considered loosely. Secondly, as mentioned, I had strategically conducted the 5 Micro:bit experiments that allowed the developments of the project. From the basics like establishing the controlled variables, i.e.: signaling the begin and end of my course, to a dependent variable, i.e.: 
-
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
-
-
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
+In regards to the possible room for improvements, I would need to find an alternative method to cover the wires and the external battery, as they are still considered loosely. Secondly, as mentioned, I had strategically conducted the 5 Micro:bit experiments that allowed the developments of the project. From the basics like establishing the controlled variables, i.e.: signaling the begin and end of my course, to a dependent variable, i.e.: the crocodile clip is dependent onto the tin foil, to the advance like the coding logic and the declaration of different variables, both were learned during the exploration of related projects. 
+Furthermore, in terms of the provided readings, I have collectively learned the following: the importance of experimenting and prototyping in any projects, how it will feed back into the different pre-set meta rules, and the importance in thinking about how the end users will interact with the projects. 
+All of these lessons have allowed me to create a robust project, that has the ability to have real world applications. 
 
 Speed limits. If a car travels faster than the speed limit on a set of road, the Micro:bit will be alerted and eventually an authoritative agency will respond. As an extension, the Micro:bit can be pre-set with the maximum speed as the speed limit when coding over a certain distance, thus, will be able to calculate the velocity of the vehicle.

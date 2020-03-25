@@ -10,7 +10,7 @@ Step Counter
 
 https://microbit.org/projects/make-it-code-it/step-counter/
 
-![Image](Ảnh chụp Màn hình 2020-03-25 lúc 4.44.58 CH.png)
+![Image](1.png)
 
 Similarly to my project, the Step Counter project allows the person to keep track of a variable - amount of steps for the Step Counter and amount of time for calculating velocity for my project. 
 

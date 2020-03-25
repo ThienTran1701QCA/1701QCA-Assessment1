@@ -42,7 +42,13 @@ https://thecodecreator.wordpress.com/2017/06/21/the-microbit-driver-speed/
 The idea behind this project is as close as my project in terms of the logic and layout. Both projects calculate the speed using a relatively similar forumla. However, this project's final input is in km/h whereas mines is in cm/seconds, and the layout of the project is meant for racing cars whereas mines is more suitable for an atv manufacturer to test their vehicles on unconventional terrains. 
 
 ### Related project 5 ###
-Kitronik 
+Kitronik RC Car Hack
+
+https://makecode.microbit.org/projects/rc-car/make
+
+![Image](missingimage.png)
+
+This project can be the substitue for my project's object in a hypothetical scenario, where the scale and the materials of my project is adapted to reality. Here, the controlled RC Car will be scaled simultaneously with the track, allowing the RC Car to maneuver across the course. 
 
 ## Reading reflections ##
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
@@ -83,16 +89,15 @@ In addition, my project's map has been improved, clearly indicating the signifie
 
 ### Project title ###
 
-Avoid the Obstacles Timed Track
+Maneuver Across the Obstacles Timed Track
 
 ### Project description ###
 
 The goal of this project is to calculate the most optimal velocity of an all-terrian vehicle to cross a series of obstacles using the distance of the course over time it took to cross. A typical use case would be for an atv vehicle's manufacturer to test their vehicles on challenging terrains, similar to my obstacle course.
 
-### Showcase video ###
+### Showcase Image ###
 
-<video src="IMG_0284.mov" width="320" height="200" controls preload></video>
-For unknown reasons, Github would not load the video. Therefore, an alternative to view the project's showcase video, you can proceed to downloading the video by pressing the three vertical dotted button at the far-right. 
+![Image](missingimage.png)
 
 ### Additional view ###
 
@@ -102,7 +107,7 @@ For unknown reasons, Github would not load the video. Therefore, an alternative 
 
 Assembling the overall track was straightforward, where it became the basic component of my project, thus making it the most successful aspect of the project. However, in terms of the more difficult sides, it would have to be the wiring. I used the crocodile clips as the main source to formulate the circut. Crocodile clips are difficult to connect and can be loosely if their anchor points does not match with what you are trying to clip, thus making the connection somewhat troublesome at first, but, I eventually attached the clips using a Swiss army knife. 
 
-In regards to the possible room for improvements, I would need to find an alternative method to cover the wires and the external battery, as they are still considered loosely. 
+In regards to the possible room for improvements, I would need to find an alternative method to cover the wires and the external battery, as they are still considered loosely. Secondly, as mentioned, I had strategically conducted the 5 Micro:bit experiments that allowed the developments of the project. From the basics like 
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
 
@@ -110,4 +115,4 @@ In regards to the possible room for improvements, I would need to find an altern
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
 
 
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+Speed limits. If a car travels faster than the speed limit on a set of road, the Micro:bit will be alerted and eventually an authoritative agency will respond. As an extension, the Micro:bit can be pre-set with the maximum speed as the speed limit when coding over a certain distance, thus, will be able to calculate the velocity of the vehicle.

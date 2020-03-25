@@ -19,7 +19,7 @@ Reaction Game
 
 https://microbit.org/projects/make-it-code-it/reaction-game/
 
-![Image](missingimage.png)
+![Image]2.png)
 
 The mechanics of the reaction game do share several elements, from the cardbox to the aluminum foil. By observing the Reaction Game project, I am able to understand how elements interact together. 
 
@@ -28,7 +28,7 @@ Micro:bit Lap Counter For Scalextric Like Track
 
 https://www.kitronik.co.uk/blog/microbit-lap-counter-scalextric/
 
-![Image](missingimage.png)
+![Image](3.png)
 
 The layout of this game is related to my project, in the sense that it is fundamentally a track. Both projects require an object - similar to a car and is being timed as they are completing the course. However, the most notable difference between the two projects is that game is calculating the amount of fixed laps, whereas my project calculates the velocity of the car after completing the course. 
 
@@ -37,7 +37,7 @@ The micro:bit driver // speed
 
 https://thecodecreator.wordpress.com/2017/06/21/the-microbit-driver-speed/
 
-![Image](missingimage.png)
+![Image](4.png)
 
 The idea behind this project is as close as my project in terms of the logic and layout. Both projects calculate the speed using a relatively similar forumla. However, this project's final input is in km/h whereas mines is in cm/seconds, and the layout of the project is meant for racing cars whereas mines is more suitable for an atv manufacturer to test their vehicles on unconventional terrains. 
 
@@ -46,7 +46,7 @@ Kitronik RC Car Hack
 
 https://makecode.microbit.org/projects/rc-car/make
 
-![Image](missingimage.png)
+![Image](5.png)
 
 This project can be the substitue for my project's object in a hypothetical scenario, where the scale and the materials of my project is adapted to reality. Here, the controlled RC Car will be scaled simultaneously with the track, allowing the RC Car to maneuver across the course. 
 
@@ -55,7 +55,7 @@ Obstacle Avoidance with Micro:bit Robit Smart Car
 
 https://www.littlebird.com.au/a/how-to/103/obstacle-avoidance-with-micro-bit-robit-smart-car
 
-![Image](missingimage.png)
+![Image](6.png)
 
 This project shares the same logic as my project, however, my project's object (most likely to be a car) maneuvers through a series of obstacles instead of avoding them. 
 

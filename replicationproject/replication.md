@@ -78,7 +78,7 @@ As I'm working on my project, I've made several refinements since my original co
 
 ## Interaction flowchart ##
 
-![Image](IMG_0292.jpeg)
+![Image](IMG_0293.jpeg)
 
 ## Process documentation
 
@@ -94,6 +94,10 @@ The image demonstrates my original interaction flowchart and the initial's proje
 
 As I further develop my project, I needed to improve on my interaction flowchart. Here, I provided a velocity calculation system, where as soon as the object (most likey a car) proceeded past Gate 2, the velocity formula (V=Distance/Time) will be configured and the whole project will go into a motion of resetting, an example of the calculation can be visable marked as part of the interaction flowchart. However, if there are no object (most likely a car), the person will unplug the external battery attached to the Micro:bit and the whole project resets.
 In addition, my project's map has been improved, clearly indicating the signifiers of the different components and project's measurements are also clearly marked. 
+
+![Image](IMG_0292.jpeg)
+
+This image represents the chosen interaction flowchart and diagram for my project. This is the closest image to the interaction flowchart as stated above, without the explanation of the calculation for the object's travelled timings. 
 ## Project outcome ##
 
 ### Project title ###
@@ -106,11 +110,11 @@ The goal of this project is to calculate the most optimal velocity of an all-ter
 
 ### Showcase Image ###
 
-![Image](missingimage.png)
+![Image](IMG_0297.jpeg)
 
 ### Additional view ###
 
-![Image](missingimage.png)
+![Image](IMG_0298.jpeg)
 
 ### Reflection ###
 

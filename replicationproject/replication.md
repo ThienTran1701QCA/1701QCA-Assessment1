@@ -19,7 +19,7 @@ Reaction Game
 
 https://microbit.org/projects/make-it-code-it/reaction-game/
 
-![Image]2.png)
+![Image](2.png)
 
 The mechanics of the reaction game do share several elements, from the cardbox to the aluminum foil. By observing the Reaction Game project, I am able to understand how elements interact together. 
 

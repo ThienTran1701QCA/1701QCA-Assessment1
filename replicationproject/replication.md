@@ -41,6 +41,9 @@ https://thecodecreator.wordpress.com/2017/06/21/the-microbit-driver-speed/
 
 The idea behind this project is as close as my project in terms of the logic and layout. Both projects calculate the speed using a relatively similar forumla. However, this project's final input is in km/h whereas mines is in cm/seconds, and the layout of the project is meant for racing cars whereas mines is more suitable for an atv manufacturer to test their vehicles on unconventional terrains. 
 
+### Related project 5 ###
+Kitronik 
+
 ## Reading reflections ##
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 

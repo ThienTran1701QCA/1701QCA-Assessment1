@@ -107,7 +107,7 @@ The goal of this project is to calculate the most optimal velocity of an all-ter
 
 Assembling the overall track was straightforward, where it became the basic component of my project, thus making it the most successful aspect of the project. However, in terms of the more difficult sides, it would have to be the wiring. I used the crocodile clips as the main source to formulate the circut. Crocodile clips are difficult to connect and can be loosely if their anchor points does not match with what you are trying to clip, thus making the connection somewhat troublesome at first, but, I eventually attached the clips using a Swiss army knife. 
 
-In regards to the possible room for improvements, I would need to find an alternative method to cover the wires and the external battery, as they are still considered loosely. Secondly, as mentioned, I had strategically conducted the 5 Micro:bit experiments that allowed the developments of the project. From the basics like 
+In regards to the possible room for improvements, I would need to find an alternative method to cover the wires and the external battery, as they are still considered loosely. Secondly, as mentioned, I had strategically conducted the 5 Micro:bit experiments that allowed the developments of the project. From the basics like establishing the controlled variables, i.e.: signaling the begin and end of my course, to a dependent variable, i.e.: 
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
 
